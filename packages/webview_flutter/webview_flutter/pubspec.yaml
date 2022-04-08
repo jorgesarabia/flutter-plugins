@@ -25,8 +25,8 @@ dependencies:
   webview_pro_wkwebview: 
     git:
       url: https://github.com/jorgesarabia/flutter-plugins
-      path: packages/webview_flutter/webview_flutter
-      ref: dev 
+      path: packages/webview_flutter/webview_flutter_wkwebview
+      ref: bugfix/update_package
 
 
 
