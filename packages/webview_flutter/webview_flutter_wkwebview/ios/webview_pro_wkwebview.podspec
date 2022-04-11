@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'webview_pro_wkwebview'
-  s.version          = '2.7.1+2'
+  s.version          = '2.7.1+1'
   s.summary          = 'A WebView Plugin for Flutter.'
   s.description      = <<-DESC
 A Flutter plugin that provides a WebView widget.
