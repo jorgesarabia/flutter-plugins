@@ -23,7 +23,17 @@ dependencies:
   webview_pro_android: ^2.8.3+2
   webview_pro_platform_interface: ^1.8.1+2
   webview_pro_wkwebview: 
-    path: ../webview_flutter_wkwebview
+    # path: ../webview_flutter_wkwebview
+    git:
+      url: https://github.com/jorgesarabia/flutter-plugins
+      path: packages/webview_flutter/webview_flutter_wkwebview
+      ref: bugfix/update_package
+      version: 2.7.1+2
+
+# dependency_overrides:
+#   angular: ">=0.9.10"
+#   webview_pro_wkwebview: 
+#     path: ../webview_flutter_wkwebview
     # git:
     #   url: https://github.com/jorgesarabia/flutter-plugins
     #   path: packages/webview_flutter/webview_flutter_wkwebview
