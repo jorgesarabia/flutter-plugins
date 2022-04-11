@@ -30,6 +30,7 @@ dependency_overrides:
       url: https://github.com/jorgesarabia/flutter-plugins
       path: packages/webview_flutter/webview_flutter_wkwebview
       ref: bugfix/update_package
+      version: 2.7.1+2
 
 
 
